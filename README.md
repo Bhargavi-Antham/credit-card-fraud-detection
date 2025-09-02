@@ -1,0 +1,2 @@
+💳 Credit Card Fraud Detection System
+A machine learning project to detect fraudulent credit card transactions using XGBoost. The system handles imbalanced data, performs threshold optimization, and provides a user-friendly Streamlit app for manual input or CSV uploads to predict fraud probabilities.
