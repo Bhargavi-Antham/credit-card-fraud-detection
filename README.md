@@ -1,4 +1,5 @@
 💳 Credit Card Fraud Detection System
+
 This project implements a fraud detection system for credit card transactions using machine learning. Multiple models were explored including Logistic Regression, Random Forest, XGBoost, and LightGBM, and XGBoost was selected as the best-performing model.
 
 Key Steps for XGBoost
