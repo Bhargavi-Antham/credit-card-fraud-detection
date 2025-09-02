@@ -4,7 +4,7 @@ This project implements a fraud detection system for credit card transactions us
 Key Steps for XGBoost
 
 1) Hyperparameter Tuning:
-5
+
 --> Tuned n_estimators, max_depth, learning_rate, subsample, colsample_bytree, min_child_weight, gamma, and scale_pos_weight using RandomizedSearchCV.
 
 --> Optimized for performance while reducing bias and overfitting.
